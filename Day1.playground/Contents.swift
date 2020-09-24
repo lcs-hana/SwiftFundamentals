@@ -8,4 +8,13 @@ Please [commit your work frequently](https://www.russellgordon.ca/cs/source-cont
  */
 import Cocoa
 
+// variables
+
 var str = "Hello, playground"
+
+str = "Goodbye"
+
+str = "It's Thursday!"
+
+
+// strings and integers
